@@ -1,7 +1,7 @@
 :root {
     --branco-principal: #ffffff;
     --cinza-secundario: #c0c0c0;
-    --botao-azul: #1269d3;
+    --botao-azul: #167bf7;
     --cor-de-fundo: #00030c;
     --fonte-principal: 'Inter';
 }
@@ -153,3 +153,5 @@ body {
     color: purple;
     font-size: 20px;
 }
+
+
