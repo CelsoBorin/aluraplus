@@ -154,4 +154,9 @@ body {
     font-size: 20px;
 }
 
+.container__botao:hover {
+    color:var(--cor-de-fundo);
+    background-color:hsl(20, 100%, 50%);  
+    font-style:bold;  
+}
 
