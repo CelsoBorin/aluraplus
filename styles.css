@@ -156,7 +156,7 @@ body {
 
 .container__botao:hover {
     color:var(--cor-de-fundo);
-    background-color:hsl(20, 100%, 50%);  
+    background-color:hsl(20, 11%, 95%);  
     font-style:bold;  
 }
 
